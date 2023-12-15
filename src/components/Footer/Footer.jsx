@@ -131,10 +131,20 @@ function Footer() {
                                         Licensing
                                     </Link>
                                 </li>
+                                <li>
+                                    <Link
+                                        className=" text-base font-medium text-gray-900 hover:text-gray-700"
+                                        to="/"
+                                    >
+                                        Arman Ali
+                                    </Link>
+                                </li>
                             </ul>
                         </div>
                     </div>
                 </div>
+                <br></br>
+                <h1 className='text-red-600'>Made By Arman ALi</h1>
             </div>
         </section>
   )
