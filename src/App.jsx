@@ -27,7 +27,7 @@ function App() {
       <div className='w-full block'>
         <Header />
         <main>
-        TODO:  <Outlet />
+        <h1 className='text-gray-600 font-bold text-2xl'>(: Welcome TO MyBlog :)</h1>  <Outlet />
         </main>
         <Footer />
       </div>
